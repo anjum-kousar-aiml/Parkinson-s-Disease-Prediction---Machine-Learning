@@ -4,13 +4,13 @@ This project focuses on predicting ** Parkinson's Disease** using biomedical voi
 You can access the dataset used in this project here: https://archive.ics.uci.edu/dataset/174/parkinsons
 ## About the Dataset
 This dataset consists of a range of voice recordings and features such as:
-Jitter, Shimmer< HNR( Harmonics-to-Noise Ratio), Fundamental frequency measures.
-These features are highly sensitive to subtle vocal impairments caused by Parkinson's Disease, making then valuable for diagnostic modeling.
+- Jitter, Shimmer< HNR( Harmonics-to-Noise Ratio), Fundamental frequency measures.
+- These features are highly sensitive to subtle vocal impairments caused by Parkinson's Disease, making then valuable for diagnostic modeling.
 ## Machine Learning Model
 Model: Random Forest Classifier
 As it builds multiple decision trees during training and aggregates their outputs. It's accurate - ideal for medical features with complex interactions.
 ## Project Highlights
-Explored feature importance and correlations
-Trained and fine-tuned a Random Forest model
-Evaluated the model using metrics like accuracy, confusion matrix, and, classification report
-Visualized feature combinations and model predictions
+- Explored feature importance and correlations.
+- Trained and fine-tuned a Random Forest model.
+- Evaluated the model using metrics like accuracy, confusion matrix, and, classification report.
+- Visualized feature combinations and model predictions.
